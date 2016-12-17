@@ -1,4 +1,8 @@
 # go-mysql-rest-api
+
+# - egc 12-17-2016
+    Modified to use sqlite3 intead of mysql
+   
 A guide for creating RESTful API with Golang and MySQL and Gin.
 
 Create a Database called Gotest
