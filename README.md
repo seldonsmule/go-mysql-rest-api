@@ -2,6 +2,8 @@
 
 # - egc 12-17-2016
     Modified to use sqlite3 intead of mysql
+
+# - egc 12-18-2016 - updated
    
 A guide for creating RESTful API with Golang and MySQL and Gin.
 
